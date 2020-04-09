@@ -37,7 +37,7 @@ margin: 10px 0px;
 #navbar a{
     color: white;
 }
-#navbar h1{
+#navbar .logo{
     float: left;
     padding: 20px;
 }
@@ -66,7 +66,7 @@ margin: 10px 0px;
 #showcase .showcase-content{
     color: white;
     text-align: center;
-    padding-top: 170px;
+    padding-top: 100px;
 }
 #showcase .showcase-content h1{
     font-size: 60px;
@@ -115,7 +115,7 @@ margin: 10px 0px;
 }
 #home-info
 {
-    height:400px;
+    height:450px;
 }
 #home-info .info-img{
     float:left;
@@ -198,7 +198,7 @@ columns: #333333;
 }
 #testimonials
 {
-    height:600px;
+    height:100%;
     background:url('../images/image2.jpg')no-repeat center center/cover;
     padding-top:40px;
 }
